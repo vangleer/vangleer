@@ -1,0 +1,10 @@
+{
+  "name": "@vangleer/blog-server",
+  "version": "1.0.0",
+  "description": "vangleer blog server",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

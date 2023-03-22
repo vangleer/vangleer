@@ -1,0 +1,12 @@
+{
+  "name": "vangleer",
+  "version": "1.0.0",
+  "description": "vangleer blog",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "blog:dev": "pnpm dev --filter ./packages/blog",
+    "blog:build": "pnpm build --filter ./packages/blog",
+    "blog:preview": "pnpm preview --filter ./packages/blog"
+  }
+}
